@@ -1,0 +1,14 @@
+body {
+  font-family: "Sanchez", serif;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+.title-class {
+  color: black;
+}
+.image2 {
+  height: 70px;
+  width: 80px;
+}

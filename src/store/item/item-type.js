@@ -1,0 +1,5 @@
+export const ITEM_TYPE = {
+    ADD_FOOD: 'ADD_FOOD',
+    DECREASE_FOOD: 'DECREASE_FOOD',
+    REMOVE_FOOD: 'REMOVE_FOOD',
+};

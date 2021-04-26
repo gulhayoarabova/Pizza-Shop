@@ -1,0 +1,18 @@
+.cardAction {
+  display: flex;
+  justify-content: space-between;
+}
+.flex-between {
+  display: flex;
+  justify-content: space-between;
+}
+.title-class {
+  color: rgb(0, 85, 134);
+  font-weight: bold;
+}
+.text-class {
+  color: black;
+}
+.cardmeedia {
+  width: 400px;
+}

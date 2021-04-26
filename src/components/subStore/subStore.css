@@ -1,0 +1,81 @@
+.subStore-card-items {
+  display: grid;
+  grid-template-columns: 60px 70px;
+
+  flex-direction: row;
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* .subStore-item-title {
+  margin-top: 7px;
+  height: 50px;
+  width: 250px;
+  color: rgb(0, 0, 0);
+  padding: 5px;
+}
+.subStore-buttons {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  width: 200px;
+  justify-content: space-around;
+}
+.subStore-button-icon {
+  height: 20px;
+  width: 20px;
+}
+.substore-btn-one {
+  background-color: rgb(160, 82, 45);
+  outline: none;
+  border: 2px solid rgb(244, 164, 96);
+  border-radius: 5px;
+  width: 100px;
+  padding: 9px 12px;
+  margin-right: 10px;
+}
+.substore-btn-two {
+  background-color: rgb(160, 82, 45);
+  outline: none;
+  border: 2px solid rgb(244, 164, 96);
+  border-radius: 5px;
+  width: 100px;
+  padding: 9px 12px;
+  margin-left: 20px;
+}
+.span-txt {
+  font-weight: bold;
+}
+.go-store-wrapper {
+  display: flex;
+  margin-left: 40px;
+}
+.go-to-store {
+  font-size: 15px;
+  outline: none;
+  border-radius: 5px;
+  font-family: quicksand;
+  padding: 11px 55px;
+  border: 1px solid rgb(139, 69, 19);
+  background-color: rgb(244, 164, 96);
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+.substore-cost {
+  font-size: 15px;
+  font-weight: bold;
+}
+.substore-cost-wrapper {
+  margin: 0;
+  display: grid;
+  grid-template-columns: 100px 100px;
+} */
+
+/* second css styles  */
+.subStore-img {
+  height: 30px;
+  width: 30px;
+}
+.pizza-card {
+  height: 25px;
+  width: 150px;
+}

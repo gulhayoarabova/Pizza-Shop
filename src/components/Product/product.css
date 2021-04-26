@@ -1,0 +1,86 @@
+.wrapper {
+  /* background-image: url("https://images.unsplash.com/photo-1580687102777-335522065412?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjk4fHxwbGFpbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"); */
+  background-image: url("https://images.unsplash.com/photo-1616737684023-79d21dac132c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzF8fHBpenphJTIwYnJvd24lMjAlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 100px;
+}
+.card-pizza-wrapper {
+  padding: 20px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+}
+.card-of-pizza {
+  background-image: url("https://images.unsplash.com/photo-1616737684023-79d21dac132c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzF8fHBpenphJTIwYnJvd24lMjAlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 30px;
+  padding-top: 30px;
+  border-radius: 12px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0 0 20px rgb(244, 164, 96);
+  height: 300px;
+  width: 600px;
+  display: flex;
+}
+
+.txt-pizza-right {
+  color: rgb(243, 247, 9);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  margin-left: 30px;
+  width: 260px;
+  display: flex;
+  flex-direction: column;
+}
+.txt-pizza-right > h2 {
+  color: rgb(255, 238, 0);
+}
+.card-go-back-x {
+  padding-top: 150px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.btn-card {
+  font-size: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  height: 40px;
+  width: 200px;
+  padding: 0px 30px;
+  background-color: rgb(73, 11, 0);
+  outline: none;
+  color: white;
+  border: 2px solid rgb(139, 69, 19);
+  border-radius: 5px;
+  cursor: pointer;
+  box-shadow: 0 0 20px rgb(244, 164, 96);
+}
+.pizza-left-image {
+  height: 250px;
+  width: 270px;
+  border-radius: 12px;
+}
+.pizza-card-buttons {
+  display: flex;
+}
+.pizza-card-btn-one {
+  margin: 5px;
+  text-align: center;
+  font-size: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  height: 40px;
+  width: 120px;
+  /* padding: 0px 30px; */
+  background-color: rgb(99, 21, 7);
+  outline: none;
+  color: rgb(253, 229, 8);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.two {
+  width: 220px;
+}
